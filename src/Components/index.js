@@ -1,0 +1,6 @@
+export {default as Header} from './Header.js'
+export {default as NavMenu} from './NavMenu.js'
+export {default as Home} from './Home.js'
+export {default as Footer} from './Footer.js'
+export {default as About} from './About.js'
+export {default as Portfolio} from './Portfolio.js'
