@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6afaa221.chunk.css",
+    "main.js": "/static/js/main.ae4734a2.chunk.js",
+    "main.js.map": "/static/js/main.ae4734a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e96b8353.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e96b8353.js.map",
+    "static/js/2.dff828b7.chunk.js": "/static/js/2.dff828b7.chunk.js",
+    "static/js/2.dff828b7.chunk.js.map": "/static/js/2.dff828b7.chunk.js.map",
+    "static/js/3.a4a7d0f9.chunk.js": "/static/js/3.a4a7d0f9.chunk.js",
+    "static/js/3.a4a7d0f9.chunk.js.map": "/static/js/3.a4a7d0f9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6afaa221.chunk.css.map": "/static/css/main.6afaa221.chunk.css.map",
+    "static/js/2.dff828b7.chunk.js.LICENSE.txt": "/static/js/2.dff828b7.chunk.js.LICENSE.txt",
+    "static/media/artCollection.059a3ee2.png": "/static/media/artCollection.059a3ee2.png",
+    "static/media/graceShopper.e7464491.png": "/static/media/graceShopper.e7464491.png",
+    "static/media/magic.61030eca.jpg": "/static/media/magic.61030eca.jpg",
+    "static/media/reading.4c48b536.jpeg": "/static/media/reading.4c48b536.jpeg",
+    "static/media/rockClimbing.fb633670.jpeg": "/static/media/rockClimbing.fb633670.jpeg",
+    "static/media/rollerblading.50ab3fca.jpeg": "/static/media/rollerblading.50ab3fca.jpeg",
+    "static/media/whackAMole.66943e61.png": "/static/media/whackAMole.66943e61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e96b8353.js",
+    "static/js/2.dff828b7.chunk.js",
+    "static/css/main.6afaa221.chunk.css",
+    "static/js/main.ae4734a2.chunk.js"
+  ]
+}
